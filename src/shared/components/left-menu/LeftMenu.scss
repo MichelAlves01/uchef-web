@@ -1,0 +1,15 @@
+.left-menu {
+  height: 100vh;
+  padding: 0.8rem;
+  border-right: solid 0.1rem #ffffff;
+  gap: 0.5rem;
+  min-width: 15rem;
+
+  .app-title {
+    font-size: 26px;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 0.3rem;
+  }
+}

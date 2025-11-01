@@ -1,0 +1,15 @@
+.recipe-page {
+  .recipe-container {
+    padding: 2rem;
+    align-content: start;
+    .recipe-card {
+      width: 10rem;
+      height: 10rem;
+    }
+  }
+
+  .shopping-list-container {
+    border-left: 2px solid #ffffff;
+    padding: 2rem;
+  }
+}
