@@ -1,0 +1,32 @@
+.create-recipe {
+  .recipe-img {
+    display: flex;
+    width: 100%;
+    height: 12rem;
+    background-color: "#c8c8c8";
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      object-fit: contain;
+      position: relative;
+      bottom: 70%;
+    }
+  }
+
+  .ingredients-box {
+    background-color: #e8e8e8;
+    width: 100%;
+    min-height: 3rem;
+    padding: 0.5rem;
+
+    div {
+      margin: 0.2rem;
+    }
+
+    .ingredient-option {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Página-1" id="htSdwsXoZdg5uzfhWv5j">
+    <mxGraphModel dx="1040" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="290" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-2" value="&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;&amp;nbsp; &amp;nbsp; New Recipe Name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="280" y="210" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-5" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#36393d;fillColor=#eeeeee;" parent="1" source="QdJk6ARXgsXpNA7MS1kg-4" target="QdJk6ARXgsXpNA7MS1kg-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="310" as="sourcePoint" />
+            <mxPoint x="150" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#36393d;fillColor=#eeeeee;" parent="1" source="QdJk6ARXgsXpNA7MS1kg-4" target="QdJk6ARXgsXpNA7MS1kg-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="210" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#36393d;fillColor=#eeeeee;" parent="1" source="QdJk6ARXgsXpNA7MS1kg-4" target="QdJk6ARXgsXpNA7MS1kg-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="370" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-8" value="Vegetarian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-9" value="Vegetarian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="263" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="130" width="290" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-11" value="&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;&amp;nbsp;Spaguetti alla Carbonara&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;" parent="1" vertex="1">
+          <mxGeometry x="610" y="160" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="610" y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-19" value="Vegetarian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="610" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="293" width="240" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-21" value="Ingredientes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="604" y="254" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-22" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;200g Spaguetti&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="310" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-23" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;30g Bacon&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="730" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-24" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;3 Ovos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="620" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QdJk6ARXgsXpNA7MS1kg-25" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;1 pitada Pimenta do Reino&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mXQs05fzYRp1cER6P2Ih-1" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=7.307692307692307;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;fillColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="840" y="220" as="sourcePoint" />
+            <mxPoint x="840" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mXQs05fzYRp1cER6P2Ih-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="610" y="500" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mXQs05fzYRp1cER6P2Ih-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Preparo&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="460" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

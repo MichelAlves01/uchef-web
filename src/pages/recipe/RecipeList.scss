@@ -1,0 +1,20 @@
+.recipe-container {
+  .recipe-img {
+    width: 10rem;
+    height: 8.5rem;
+    overflow: hidden;
+
+    img {
+      width: 10rem;
+      object-fit: contain;
+      position: relative;
+      bottom: 25%;
+    }
+  }
+
+  span {
+    font-size: medium;
+    margin: 0.3rem;
+    vertical-align: middle;
+  }
+}

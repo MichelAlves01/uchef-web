@@ -1,13 +1,15 @@
 import "./ListCreation.scss";
-import RecipePage from "../recipe/Recipe";
 import ShoppingListPage from "../shopping-list/ShoppingList";
+import DoubledDynamicContainer from "../../shared/components/container/DoubledDynamicContainer";
+import RecipeList from "../recipe/RecipeList";
 
 function ListCreation() {
   return (
-    <>
-      <RecipePage gridSize={5}></RecipePage>
-      <ShoppingListPage gridSize={5}></ShoppingListPage>
-    </>
+    <DoubledDynamicContainer
+      leftContainer={<RecipeList onRecipeSelection={function (): void {}} />}
+      rightContainer={<ShoppingListPage />}
+      displayRightContainer={false}
+    ></DoubledDynamicContainer>
   );
 }
 

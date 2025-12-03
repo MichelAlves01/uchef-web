@@ -1,5 +1,6 @@
 import type { JSX } from "@emotion/react/jsx-runtime";
-import { Button } from "@mui/material";
+import { ToggleButton } from "@mui/material";
+import { Link } from "react-router-dom";
 
 export interface LeftMenuButtonProps {
   icon: JSX.Element;
@@ -13,13 +14,16 @@ export function LeftMenuButton({
   path,
 }: Readonly<LeftMenuButtonProps>) {
   return (
-    <Button
-      startIcon={icon}
-      fullWidth
-      sx={{ justifyContent: "start" }}
-      href={path}
-    >
-      {text}
-    </Button>
+    <Link to={path}>
+      <ToggleButton
+        fullWidth
+        sx={{ justifyContent: "start" }}
+        value={text}
+        color="info"
+        className="menu-button"
+      >
+        {icon} {text}
+      </ToggleButton>
+    </Link>
   );
 }

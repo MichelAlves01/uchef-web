@@ -21,5 +21,16 @@ return
 
 **FE**
 
+### Project Folder Structure
+
+```
+/src
+	/assets
+	/pages/
+	/services
+	/components
+	/
+```
+
 - Create responsive cards component to list recipes
 - service to request all recipes
